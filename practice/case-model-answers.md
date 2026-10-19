@@ -18,7 +18,7 @@ A <b>capital company</b> (S.L. or S.A.). Their plan needs (i) <b>limited liabili
 ### (2) Why is a capital company more advisable than a partnership? (María wants to protect her wealth)
 
 <ul><li><b>Liability</b>: in a general partnership partners answer for company debts <b>personally, unlimitedly, subsidiarily and jointly & severally</b> (arts. 127, 148 CCom). In an S.L./S.A. members are <b>not personally liable</b> (art. 1 LSC) – María risks only her contribution.</li><li><b>Transferability</b>: partnership status can't be transferred without the others' consent (art. 143 CCom); shares/stakes can be transferred (S.A. freely, S.L. with restrictions) → needed for the sale.</li><li><b>Management</b> is separated from ownership (directors), so investors can join without managing.</li><li>Capital companies are the standard vehicle for investors; partnerships are rarely used today.</li></ul>
-  <p class="tip">Caveat: limited liability only works after <b>registration</b> (otherwise irregular company) and if they don't abuse the company (<b>veil lifting</b>).</p>
+  <p class="tip">But note: limited liability only works after <b>registration</b> (otherwise irregular company) and if they don't abuse the company (<b>veil lifting</b>).</p>
 
 *Key points:* Art. 1 LSC – no personal liability · Partnership: personal, unlimited, subsidiary, joint & several · Transfer of status · Registration needed
 
@@ -126,14 +126,14 @@ Goal: equity ≥ ½ capital.<ul><li><b>Capital increase</b> with new money – t
 
 ### 9. When is the merger effective legally and for accounting?
 
-<b>Legally</b>: on <b>registration</b> of the merger deed in the Mercantile Registry (universal succession, extinction of PTEL).<br><b>Accounting</b>: from the date stated in the merger draft from which PTEL's operations are considered carried out on behalf of Patinetes (under the accounting rules, typically the start of the financial year in which the merger is approved for group companies) – it can be <b>earlier</b> than the legal effect.
+<b>Legally</b>: on <b>registration</b> of the merger deed in the Mercantile Registry (universal succession, extinction of PTEL).<br><b>Accounting</b>: from the date stated in the merger draft from which PTEL's operations are considered carried out on behalf of Patinetes – it can be <b>earlier</b> than the legal effect.
 
 *Key points:* Legal: registration · Accounting: date in the draft (retroactive)
 
 
 ### 10. Reasons for the merger? Should they be recorded in the merger project?
 
-<b>Reasons</b>: PTEL lost its purpose (only serves the parent) → <b>simplify</b> the group, <b>cut costs</b> (one set of accounts, audits, tax filings, governance), integrate the marketing team, synergies, single brand/contract holder.<br><b>Recording them</b>: not a mandatory item of the simplified draft, but <b>convenient</b>: it shows the economic rationale to members and creditors (transparency) and documents <b>valid economic reasons</b>, relevant e.g. for the tax-neutral merger regime.
+<b>Reasons</b>: PTEL lost its purpose (only serves the parent) → <b>simplify</b> the group, <b>cut costs</b> (one set of accounts, audits, tax filings, governance), integrate the marketing team, synergies, single brand/contract holder.<br><b>Recording them</b>: not a mandatory item of the simplified draft, but <b>convenient</b>: it explains the economic reasons to members and creditors (transparency) and documents <b>valid economic reasons</b>, relevant e.g. for the tax-neutral merger regime.
 
 *Key points:* Simplification & cost savings · Transparency · Valid economic reasons (tax)
 
@@ -152,7 +152,7 @@ Goal: equity ≥ ½ capital.<ul><li><b>Capital increase</b> with new money – t
 
 ### I.2 Does the tweet breach EU unfair-competition rules?
 
-Arguments <b>against</b> it: "bigger and more powerful" is <b>not an objective, verifiable</b> comparison; it <b>ridicules</b> the competitor ("big shoed, red nosed regime") and uses its mascot (a trademark) to ride on McDonald's fame → possibly <b>denigrating</b> and taking <b>unfair advantage</b>.<br>Arguments <b>for</b>: it's obvious <b>humour/parody</b> (puffery) no average consumer takes literally; same type of product (burgers); no real confusion.<br><b>Conclusion</b>: under a strict reading of the conditions it is <b>arguably unlawful</b> comparative advertising (non-verifiable claim + mocking a competitor's mark), although in practice such humorous campaigns are often tolerated. Show both sides in the exam.
+Arguments <b>against</b> it: "bigger and more powerful" is <b>not an objective, verifiable</b> comparison; it <b>makes fun of</b> the competitor ("big shoed, red nosed regime") and uses its mascot (a trademark) to profit from McDonald's fame → possibly <b>denigrating</b> and taking <b>unfair advantage</b>.<br>Arguments <b>for</b>: it's obvious <b>humour/parody</b> – an exaggeration (puffery) that no average consumer takes literally; same type of product (burgers); no real confusion.<br><b>Conclusion</b>: under a strict reading of the conditions it is <b>probably unlawful</b> comparative advertising (non-verifiable claim + mocking a competitor's mark), although in practice such funny campaigns are often accepted in practice. Show both sides in the exam.
 
 *Key points:* Not verifiable · Denigration / use of mark · Humour defence · Reasoned conclusion
 
@@ -187,7 +187,7 @@ A trademark <b>generally known</b> by the relevant public (art. 8 LM) thanks to 
 
 ### III.2–3 Black Friday: can the shop ignore the royalty demand? Legal solution?
 
-<b>Yes, largely.</b> "Black Friday" describes a well-known <b>sales event</b> – a sign <b>devoid of distinctiveness</b> / <b>customary</b> in trade / descriptive of the <b>time</b> of the service → an <b>absolute prohibition</b> (art. 5 LM). Using the words <b>descriptively</b> (to announce discounts) isn't use as a trademark.<br><b>Solution</b>: bring (or counterclaim) a <b>nullity action</b> on absolute grounds – <b>no time limit</b> – or rely on it in defence; meanwhile use the expression descriptively, not as a brand. (In Spain the courts did annul most of that registration for these reasons.)
+<b>Yes, largely.</b> "Black Friday" describes a well-known <b>sales event</b> – a sign <b>lacking distinctiveness</b> / <b>customary</b> in trade / descriptive of the <b>time</b> of the service → an <b>absolute prohibition</b> (art. 5 LM). Using the words <b>descriptively</b> (to announce discounts) isn't use as a trademark.<br><b>Solution</b>: bring (or counterclaim) a <b>nullity action</b> on absolute grounds – <b>no time limit</b> – or rely on it in defence; meanwhile use the expression descriptively, not as a brand. (In Spain the courts did annul most of that registration for these reasons.)
 
 *Key points:* Absolute prohibition (generic/descriptive) · Descriptive use ≠ trademark use · Nullity action – imprescriptible
 

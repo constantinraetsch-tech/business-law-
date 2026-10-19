@@ -1,6 +1,6 @@
 # Unit 2 – Business Law & the Entrepreneur
 
-49 flashcards · same content as the app and the RECALL decks.
+45 flashcards · same content as the app and the RECALL decks.
 
 
 ## 2.1 Business Law: history & concept
@@ -12,7 +12,7 @@ In the **Middle Ages**, after the fall of the Roman Empire, as a **customary** l
 
 **Q: Which Commercial Codes did Spain have?**
 
-**1829** (first, after the French code of **1807**) and the **1885 Commerce Code**, still the framework code today – though heavily "sifted" (most articles repealed and replaced by special laws).
+**1829** (first, after the French code of **1807**) and the **1885 Commerce Code**, still the framework code today – though most of its articles have been repealed and replaced by special laws.
 
 
 **Q: Define **Business Law** (notes).**
@@ -40,14 +40,6 @@ The part of the **private** legal system for **entrepreneurs** and their **legal
 **Free enterprise** is recognised **within the framework of a market economy**; public authorities guarantee and protect it. It is the constitutional basis of trade activity and of competition law.
 
 
-**Q: Impacts of the constitutional market-economy framework?**
-
-- Recognition of entrepreneurs' **private initiative**
-- Freedom is subordinate to **general interest** (e.g. anti-competitive practices are illegal)
-- **Market unity**
-- **Protection of consumers and users**
-
-
 **Q: Who has competence over commercial legislation in Spain?**
 
 The **State, exclusively** (art. **149.1.6 CE**) – to guarantee **market unity**.
@@ -64,17 +56,12 @@ The **State, exclusively** (art. **149.1.6 CE**) – to guarantee **market unity
 
 **Q: What limitation does **art. 50 CCom** add?**
 
-For **business contracts** without a specific law, **general civil law** applies directly – business usage does **not** take precedence. Important limit because contracts are exactly where customs matter most.
+For **business contracts** without a specific law, **general civil law** applies directly – business usage does **not** come first. Important limit because contracts are exactly where customs matter most.
 
 
 **Q: What is the **lex specialis** principle?**
 
 **Specialised acts prevail over general acts.** It explains the many special commercial laws (LSC, Trademarks Act, LDC…) next to the old CCom.
-
-
-**Q: How does EU law shape Spanish Business Law today?**
-
-Most commercial rules either **apply EU Regulations directly** (trademarks, consumer rights, free competition) or **implement Directives** (company law).
 
 
 
@@ -84,7 +71,7 @@ Most commercial rules either **apply EU Regulations directly** (trademarks, cons
 
 An **organised set of capital** (material & immaterial elements) **and work** (people) used to produce/distribute goods or services for the market. It has **no legal personality** – it must be linked to a person: the **entrepreneur**.
 
-> When people say "the enterprise signed a contract" they speak figuratively – legally it is the **entrepreneur** (the owner) who holds rights and obligations.
+> When people say "the enterprise signed a contract" they are speaking loosely – legally it is the **entrepreneur** (the owner) who holds rights and obligations.
 
 
 **Q: Define **entrepreneur** in the legal sense.**
@@ -100,7 +87,7 @@ The **natural or legal person** that, **in its own name** and in an **organised 
 2. **Professional** activity (habitual, public, for the market, usually for profit)
 3. Acts **in its own name**
 
-> Mnemonic **O-P-O**: Organises, Professional, Own name.
+> Memory trick **O-P-O**: Organises, Professional, Own name.
 
 
 **Q: Why is "buying an **enterprise**" legally wrong? What do you buy?**
@@ -108,11 +95,6 @@ The **natural or legal person** that, **in its own name** and in an **organised 
 You buy a **business / business establishment** (negocio, establecimiento mercantil): the assets **plus** pre-existing legal and financial relationships (contracts, employees, reputation, brand). An enterprise as such is just a set of assets/people.
 
 > Mock exam Q1: "enterprise", "entrepreneur" and "business/commercial establishment" are **different concepts** → answer **(b)**.
-
-
-**Q: Why is a running business usually worth more than the sum of its isolated assets?**
-
-Because of the **legal relationships in force and the track record**: reputation of the brand, profitable contracts, customers. Starting from isolated assets you'd have no market background.
 
 
 **Q: Who are businesspersons under **art. 1 CCom**?**
@@ -141,11 +123,6 @@ Because of the **legal relationships in force and the track record**: reputation
 **No** – the CCom gives one status regardless of size. But special rules differ, e.g. **accounting** (General Accounting Plan vs SME plan; art. 25 CCom) and corporate tax for small companies. SME parameters: **Commission Regulation (EU) 651/2014, Annex I**.
 
 
-**Q: What is a **public enterprise**?**
-
-An entity held **totally or partly by a public-law body** (town hall, Autonomous Community…) carrying out an **economic activity** with some autonomy from its public functions. Exceptional in a market economy.
-
-
 
 ## 2.5 Legal status of the entrepreneur
 
@@ -172,7 +149,7 @@ An entity held **totally or partly by a public-law body** (town hall, Autonomous
 2. **Market transparency** – publicity of sensitive information for third parties
 
 
-**Q: Rights conferred by the status of entrepreneur?**
+**Q: Rights given by the status of entrepreneur?**
 
 1. **Participate in the market** competing freely
 2. **Demand fair competition** (stop abuse/restrictive practices)
@@ -236,7 +213,7 @@ Prevention of business activity **as a sanction** for irregularities; can be **t
 
 **Q: Individual entrepreneur: is there a separation between business and private assets?**
 
-As a rule **no** – liable with **all present and future assets**, business and private. (Legislative trend to protect the habitual residence.)
+As a rule **no** – liable with **all present and future assets**, business and private. (New laws tend to protect the family home.)
 
 > That's why sole traders often form an **S.L.U.** – a single-member company limits liability to the company's assets.
 

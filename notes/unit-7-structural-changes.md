@@ -1,6 +1,6 @@
 # Unit 7 – Structural Changes & Company Termination
 
-29 flashcards · same content as the app and the RECALL decks.
+25 flashcards · same content as the app and the RECALL decks.
 
 
 ## 7.1 Structural changes
@@ -31,7 +31,7 @@
 
 **Q: Legal definition of a **merger**?**
 
-A corporate operation affecting **two or more companies** that entails the **extinction of all or some** of them and the **integration of their assets and members** into a **single company**.
+A corporate operation affecting **two or more companies** that leads to the **extinction of all or some** of them and the **integration of their assets and members** into a **single company**.
 
 
 **Q: Two types of merger?**
@@ -59,7 +59,7 @@ A **directors' report** of each company justifying it + an **independent expert*
 
 **Q: What is the **exchange ratio** (exchange equation)?**
 
-The number of shares/stakes in the absorbing/new company given to members of the extinguished companies **in proportion to their participation**, calculated at **fair value** – so members' equity value is **not diminished**.
+The number of shares/stakes in the absorbing/new company given to members of the extinguished companies **in proportion to their participation**, calculated at **fair value** – so the value of members' equity is **not reduced**.
 
 
 **Q: Approval phase of a merger?**
@@ -70,11 +70,6 @@ The number of shares/stakes in the absorbing/new company given to members of the
 **Q: Can merger formalities be simplified by unanimity?**
 
 Yes: if approved at a **universal GM by unanimity** in **each** company → no prior publication/deposit and **no directors' report** needed.
-
-
-**Q: How is the adopted merger resolution published?**
-
-In the **BORME** and a leading **newspaper** of each province – or by **individual written notice** to all members **and creditors**.
 
 
 **Q: Execution phase of a merger? When is it legally effective?**
@@ -89,17 +84,12 @@ Simplified mergers where the **same persons decide** in all companies. Main case
 > This is exactly **Case 2, Facts 3** (PATINETES absorbs PTEL S.L.U.).
 
 
-**Q: What is a merger of **"twin" companies** (art. 49.2)?**
-
-Absorption where the absorbing company **indirectly** owns 100% of the absorbed one (a **common shareholder** owns both 100%). Simplified, but **capital increase** and **expert report** are still required. Simplifications also from **90%** ownership (art. 54).
-
-
 
 ## 7.3 Divisions
 
 **Q: Why divide a company?**
 
-To **reorganise**: separate activities or production phases into different companies, or distribute assets according to different financial needs. The inverse of a merger; merger rules apply (art. 63).
+To **reorganise**: separate activities or production phases into different companies, or distribute assets according to different financial needs. The opposite of a merger; merger rules apply (art. 63).
 
 
 **Q: **Total demerger** (split-up), art. 59?**
@@ -126,11 +116,6 @@ Block transfer of one or more parts of the assets to beneficiaries, but the **tr
 - **Total demerger**: members · company **extinguished**
 - **Partial demerger**: members · company **survives** (capital ↓)
 - **Segregation**: **the company itself** · company **survives**
-
-
-**Q: What is a **group of companies** (art. 42 CCom)?**
-
-Companies under **single management** of a **parent** company over **subsidiaries**. Control is presumed when the parent holds (or can hold by agreement) the **majority of votes** or can **appoint/remove the majority of directors**. Consequences: **consolidated accounts**, tax consolidation, related-party valuation.
 
 
 
@@ -172,11 +157,6 @@ The **GM**. With a legal cause, directors **must convene** it (any member may re
 **Q: What happens in **liquidation**?**
 
 The company **keeps legal personality**, adds "**en liquidación**" to its name, stops its corporate purpose. **Directors cease**; **liquidators** take over (art. 375). Tasks: **inventory & balance** within **3 months**, **pay creditors**, final balance, **distribute** the remainder to members in proportion to their capital.
-
-
-**Q: Can the distribution proposal be challenged?**
-
-Yes – members who **didn't vote in favour** can challenge the GM approval within **2 months** (art. 390). And **nothing** may be distributed to members until **all debts** are paid (otherwise → insolvency rules).
 
 
 **Q: When is the company **extinguished**?**

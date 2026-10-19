@@ -1,6 +1,6 @@
 # Unit 5 – Corporate Bodies II: Directors' Duties & Liability
 
-25 flashcards · same content as the app and the RECALL decks.
+21 flashcards · same content as the app and the RECALL decks.
 
 
 ## 5.1 Directors' obligations & duties
@@ -17,17 +17,12 @@ To **manage and represent** the company. The law doesn't list specific acts – 
 3. **Duty of care** and **duty of loyalty** (arts. 225–232 LSC)
 
 
-**Q: Examples of specific legal obligations of directors?**
-
-**Prepare annual accounts**, **convene the ordinary GM** yearly, convene the **extraordinary GM** when mandatory (e.g. dissolution cause), request **insolvency** in time.
-
-
 **Q: **Duty of care / diligence** (art. 225 LSC)?**
 
 Act with the diligence of an **orderly entrepreneur** (ordenado empresario), considering the nature of the post; subordinate **personal interest** to the company's; **adequate dedication**; duty to **demand and right to obtain information**.
 
 
-**Q: Five manifestations of the duty of care?**
+**Q: Five parts of the duty of care?**
 
 1. **Prudence**
 2. **Professional competence**
@@ -35,7 +30,7 @@ Act with the diligence of an **orderly entrepreneur** (ordenado empresario), con
 4. **Information**
 5. **Surveillance & control** (vigilance)
 
-> Mnemonic **P-P-D-I-S**: "**P**edro **P**lans **D**aily **I**n **S**ilence".
+> Memory trick **P-P-D-I-S**: "**P**edro **P**lans **D**aily **I**n **S**ilence".
 
 
 **Q: Two perspectives of the "**orderly entrepreneur**" standard?**
@@ -74,7 +69,7 @@ In **strategic and business decisions**, the orderly-entrepreneur standard is **
 3. with **sufficient information**
 4. following an **adequate decision procedure**
 
-> It protects **managerial discretion**: a bad *result* alone does not mean a breach. It is a **rebuttable presumption** – whoever sues must prove the standards weren't met. Mnemonic **G-N-I-P**: Good faith, No interest, Information, Procedure.
+> It protects directors' freedom to decide (**managerial discretion**): a bad *result* alone does not mean a breach. It is a **rebuttable presumption** – whoever sues must prove the standards weren't met. Memory trick **G-N-I-P**: Good faith, No interest, Information, Procedure.
 
 
 **Q: Which decisions are **excluded** from the business judgment rule?**
@@ -82,21 +77,9 @@ In **strategic and business decisions**, the orderly-entrepreneur standard is **
 Decisions that **personally affect other directors or related persons**, especially those authorising **art. 230** operations (conflicts of interest).
 
 
-**Q: Why does the law protect managerial discretion?**
-
-To **remove the fear** of liability for unsuccessful decisions, **encourage risk-taking**, and avoid members **interfering** in management via liability actions.
-
-
 **Q: Why is **risk monitoring** part of the duty of care?**
 
-Directors must have an internal **information system** that detects gradual deterioration (profitability, finance) **in time**. No monitoring → possible **liability in vigilando** (breach of duty of care). **Unforeseeable** events (e.g. **Covid-19**) are **not** a breach.
-
-
-**Q: What is **D&O insurance** (mind map, Unit 5)?**
-
-**Directors & Officers liability insurance**: the company buys a policy covering directors' personal liability and **legal defence costs**; it has **coverage limits and exclusions** (typically intentional/fraudulent acts).
-
-> Not developed in the notes – just know what it is.
+Directors must have an internal **information system** that detects gradual deterioration (profitability, finance) **in time**. No monitoring → possible **liability in vigilando** (breach of duty of care). **Unpredictable** events (e.g. **Covid-19**) are **not** a breach.
 
 
 
@@ -169,9 +152,4 @@ A person who in reality performs director functions **without title**, with a **
 - **Act of directors** in office
 - **Unlawfulness**
 - **Causal link** – burden of proof on the claimant
-
-
-**Q: Can **public bodies** (Tax Agency, Social Security) hold directors liable?**
-
-Yes – besides the commercial regime, **tax** and **labour law** have their own rules making directors liable for unpaid taxes/contributions in certain cases.
 

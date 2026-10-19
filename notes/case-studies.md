@@ -1,6 +1,6 @@
 # Case Studies 1–3 (Patinetes Eléctricos & IP/competition cases)
 
-27 flashcards · same content as the app and the RECALL decks.
+26 flashcards · same content as the app and the RECALL decks.
 
 
 ## Case 1 – Setting up the start-up
@@ -115,7 +115,7 @@ New stakes N: N ÷ (90,000 + N) = 10% → **N = 10,000**.
 - Capital + premium = **€100,000**
 - New capital **€100,000** (stakes 1–100,000)
 
-> The **share premium** is the anti-dilution mechanism: the BA pays €10 per stake (€1 par + €9 premium) = the real value, so the founders' value isn't diluted. Bonus: equity becomes 30,000 + 100,000 = **€130,000 > ½ × 100,000** → impairment cured.
+> The **share premium** is the anti-dilution mechanism: the BA pays €10 per stake (€1 par + €9 premium) = the real value, so the founders' value isn't diluted. Bonus: equity becomes 30,000 + 100,000 = **€130,000 > ½ × 100,000** → the impairment is fixed.
 
 
 **Q: Case 2: which company should absorb which?**
@@ -140,11 +140,6 @@ New stakes N: N ÷ (90,000 + N) = 10% → **N = 10,000**.
 8. **Registration** → effective; PTEL extinguished & cancelled
 
 
-**Q: Case 2: when is the merger effective – legally and for accounting?**
-
-**Legally**: on **registration** in the Mercantile Registry. **Accounting**: from the **date set in the merger draft** (per accounting rules; typically retroactive to the start of the financial year for group companies).
-
-
 **Q: Case 2: reasons for the merger?**
 
 PTEL lost its purpose (only serves the parent): **simplify the structure**, **cut costs** (one set of accounts, filings, governance), **synergies**, concentrate employees/assets. Stating them (draft/report) helps **transparency** and justifies **valid economic reasons** (e.g. for tax neutrality).
@@ -155,7 +150,7 @@ PTEL lost its purpose (only serves the parent): **simplify the structure**, **cu
 
 **Q: Case 3: KFC's "nuclear button" tweet mocking Ronald McDonald – what advertising, lawful?**
 
-**Comparative advertising** (implicit reference to a competitor). Lawful only if it compares goods with the **same purpose**, **objectively** on **essential, verifiable** features, is **true**, not **denigrating**, doesn't exploit the competitor's **mark/reputation** (Dir. 2006/114 art. 4). "Bigger and more powerful" isn't verifiable and it ridicules McDonald's mascot → arguably **unlawful**; counter-argument: obvious humour/puffery no consumer takes literally.
+**Comparative advertising** (implicit reference to a competitor). Lawful only if it compares goods with the **same purpose**, **objectively** on **essential, verifiable** features, is **true**, not **denigrating**, doesn't exploit the competitor's **mark/reputation** (Dir. 2006/114 art. 4). "Bigger and more powerful" isn't verifiable and it makes fun of McDonald's mascot → probably **unlawful**; counter-argument: obvious humour/exaggeration (puffery) that no consumer takes literally.
 
 
 **Q: Case 3: products labelled "100% natural" contain chemicals. What is it and what actions exist?**
@@ -190,5 +185,5 @@ A secret **agreement between competitors** to **fix prices**, **share markets/cu
 - **Trademark**: signs, **10 years renewable**
 - **Copyright**: works/software, no registration
 - **Trade secret** (Act 1/2019): **no registration, unlimited** while secret + **reasonable measures** (NDAs), but no protection against **independent discovery / reverse engineering**
-- **Unfair competition** as a backstop
+- **Unfair competition** as a safety net
 

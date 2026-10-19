@@ -1,6 +1,6 @@
 # Unit 4 – Corporate Bodies I: General Meeting & Directors
 
-24 flashcards · same content as the app and the RECALL decks.
+23 flashcards · same content as the app and the RECALL decks.
 
 
 ## 4.1 Two corporate bodies
@@ -47,7 +47,7 @@ h) **Dissolution**
 i) **Final liquidation balance**
 j) Others set by law/by-laws
 
-> Mnemonic: **A-D-B-C-P-C-S-D-L** → "**A**ll **D**irectors **B**ring **C**offee, **P**artners **C**hoose **S**ugar, **D**ON'T **L**eave". It's a **closed list** – the GM can't decide outside it.
+> Memory trick: **A-D-B-C-P-C-S-D-L** → "**A**ll **D**irectors **B**ring **C**offee, **P**artners **C**hoose **S**ugar, **D**ON'T **L**eave". It's a **closed list** – the GM can't decide outside it.
 
 
 **Q: When is an asset a **core asset** requiring GM approval?**
@@ -120,7 +120,7 @@ He is **bound** by it, but may **challenge** it in court if it violates the **la
 
 **Q: Define the **managing body**.**
 
-The corporate body that **legally represents** the company and **manages** it under the law (art. **209 LSC**). Management isn't listed exhaustively – it covers all acts aimed at the **corporate purpose**.
+The corporate body that **legally represents** the company and **manages** it under the law (art. **209 LSC**). Management isn't a closed list – it covers all acts aimed at the **corporate purpose**.
 
 
 **Q: Who **cannot** be a director?**
@@ -154,11 +154,6 @@ As a rule **no** – directors manage autonomously; the GM appoints/removes them
 **Q: S.A. wants 3 directors acting **jointly**. Possible?**
 
 **No** – S.A. may have at most **2 joint directors**; with more than two acting jointly it must be a **board of directors**.
-
-
-**Q: How is the organisational model of the managing body changed?**
-
-The by-laws choose one of the 4 models; any change → **public deed** + **registration** in the Mercantile Registry (art. 210.4 LSC).
 
 
 **Q: Directors' term of office?**

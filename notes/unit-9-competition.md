@@ -1,6 +1,6 @@
 # Unit 9 – Free Competition & Unfair Competition
 
-37 flashcards · same content as the app and the RECALL decks.
+32 flashcards · same content as the app and the RECALL decks.
 
 
 ## 9.1 Free competition
@@ -66,18 +66,12 @@ e) **Tying** unrelated services
 (Non-exhaustive list)
 
 
-**Q: Conducts **exempted** from the prohibitions (arts. 4–6)?**
-
-1. Conduct resulting from **application of a law**
-2. Conduct of **minor importance** (de minimis)
-
-
 **Q: **De minimis** thresholds (LDC Regulation, art. 1)?**
 
 - **Competitors**: combined share **≤ 10%**
 - **Non-competitors**: each **≤ 15%**
-- Unclear: **10%** each
-- **Cumulative** parallel networks: **5%** (only if networks cover ≥ **30%** of the market)
+
+> Below these shares a conduct is of **minor importance** – but hard-core cartels (price fixing, market sharing) never are.
 
 
 **Q: Which conducts are **never** of minor importance?**
@@ -100,22 +94,9 @@ a) it acquires/increases a market share **≥ 30%**, or
 b) combined Spanish turnover **> €240 million** and at least **two** participants each **> €60 million**
 
 
-**Q: Concentration control procedure?**
-
-1. **Notify the CNMC** before execution
-2. **Suspension** – can't execute until authorised
-3. CNMC **authorises**, authorises **with conditions**, or **prohibits**
-Not notifying = **administrative offence**.
-
-
 **Q: State aid under EU law?**
 
-In principle **incompatible** with the internal market (privileged position). Automatically allowed: aid of a **social** nature or for **natural disasters**/exceptional events (art. 107.2 TFEU); possible for regional development, projects of common European interest, serious economic disturbance. **De minimis: ≤ €200,000 over 3 fiscal years.**
-
-
-**Q: What does the Spanish LDC do about State aid?**
-
-It does **not prohibit** it – the **CNMC** may **analyse** aid and its effects on competition and report. Breaches by a State can be taken to the **CJEU** by the Commission or another State.
+In principle **incompatible** with the internal market. Exceptions: aid of a **social** nature or for **natural disasters** (always allowed); regional development or serious economic disturbance (possible). **De minimis: ≤ €200,000 over 3 fiscal years.**
 
 
 
@@ -143,11 +124,6 @@ The **first** cartel member to provide decisive evidence gets **full immunity** 
 **Q: Which law regulates **unfair competition**? Purpose?**
 
 **Act 3/1991 on Unfair Competition (LCD)**. Not against *intense* competition, but against competition by **dishonest means** harming competitors, the market or consumers.
-
-
-**Q: Objective and subjective scope of the LCD?**
-
-Any unfair act **before, during or after** a transaction, **whether or not the contract is concluded** (art. 2). Applies to entrepreneurs, professionals **and any person** acting in the market.
 
 
 **Q: General clause of unfair competition (art. 4 LCD)?**
@@ -192,11 +168,6 @@ Imitation of non-exclusive creations is in principle free, but unfair if it crea
 Disclosing/using trade secrets under a duty of confidentiality or obtained unfairly. Special law: **Act 1/2019 on Trade Secrets** (implements Directive 2016/943).
 
 
-**Q: When is **inducing breach of contract** unfair?**
-
-Inducing workers, suppliers or customers to breach basic contractual duties. Inducing a *regular* termination is unfair only if aimed at **secrets**, uses **deception**, or aims to **eliminate a competitor**.
-
-
 **Q: Unfair acts against the **proper functioning of the market**?**
 
 1. **Misleading acts**
@@ -215,7 +186,7 @@ Inducing workers, suppliers or customers to breach basic contractual duties. Ind
 
 **Q: What are **misleading omissions**?**
 
-Advertising inducing error by **omitting/hiding** necessary info, or giving it **unclear, unintelligible, ambiguous**, **at the wrong time**, or **subliminal** advertising.
+Advertising inducing error by **omitting/hiding** necessary info, or giving it in an **unclear, hard-to-understand or ambiguous** way, **at the wrong time**, or **subliminal** advertising.
 
 
 **Q: When is **selling below cost** unfair?**
@@ -235,7 +206,7 @@ Only when done **systematically** and it **misleads** consumers about the price 
 3. **Bait advertising** ("Barcelona for €1" with almost no seats)
 4. False claims about **properties** ("cures diseases")
 5. **Pyramid schemes** (Ponzi/Madoff)
-6. **Covert advertising** (advertorials not marked as ads)
+6. **Covert advertising** (paid articles not marked as ads)
 
 
 **Q: Examples of **aggressive practices** towards consumers?**

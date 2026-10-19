@@ -1,6 +1,6 @@
 # Unit 8 – Distinctive Signs & Industrial Creations
 
-38 flashcards · same content as the app and the RECALL decks.
+35 flashcards · same content as the app and the RECALL decks.
 
 
 ## 8.1 Intellectual property
@@ -124,11 +124,6 @@ Signs **confusable** with **earlier registered** trademarks/trade names for iden
 > Class examples: "Coca-Kola", "GOOGLE for Kids" → relative. Apple Corps vs Apple Computer (iTunes).
 
 
-**Q: How are **designations of origin / geographical indications** protected?**
-
-Deceptive geographic signs are an absolute prohibition; unauthorised use of a designation of origin can even be a **criminal offence** (art. 275 Criminal Code).
-
-
 **Q: Define a **trade name** (art. 87 LM). What can it consist of?**
 
 Any sign capable of graphic representation that **identifies a business** in trade and distinguishes it from businesses with identical/similar activities. Can be: personal names, company names, **imaginary** names, names alluding to the activity, anagrams, logos, images… Need not equal the company name. Specialty applies; **trademark rules apply** where compatible.
@@ -151,7 +146,7 @@ c) **Industrial designs** – aesthetic/ornamental appearance
 
 **Q: Why does the law grant an exclusive right, if it restricts free competition?**
 
-To protect a **higher good**: without reward, less inventive effort. A **temporary** monopoly fosters **technological progress**; afterwards the invention enters the **public domain**.
+To protect a **higher good**: without reward, less inventive effort. A **temporary** monopoly encourages **technological progress**; afterwards the invention enters the **public domain**.
 
 
 **Q: What is a **patent**?**
@@ -165,7 +160,7 @@ A **title** granted by the State recognising an **invention capable of industria
 2. **Inventive step**
 3. **Industrial application**
 
-> Mnemonic **N-I-I**: "**N**ew **I**dea, **I**ndustrial".
+> Memory trick **N-I-I**: "**N**ew **I**dea, **I**ndustrial".
 
 
 **Q: When is an invention **new** (art. 6)?**
@@ -227,14 +222,4 @@ Exploit (directly or via licensee) within **3 years from publication of the gran
 **Q: When can a **compulsory licence** be imposed (art. 91)?**
 
 **Lack or insufficient exploitation**; **public interest** (public health, national defence); to stop practices contrary to **competition law**.
-
-
-**Q: Grounds of **patent invalidity**?**
-
-Patentability requirements not met; invention **insufficiently described**; subject goes **beyond the application**; holder **not entitled**.
-
-
-**Q: How can patent rights be transferred?**
-
-Sold, **licensed** (contractual licence – licensor keeps ownership; exclusive or not; royalties), given as security (usufruct, chattel mortgage).
 

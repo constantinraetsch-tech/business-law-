@@ -27,7 +27,7 @@ The **power of a person** to do, demand or prohibit something, **protected by ob
 1. **Generality**
 2. **Coercibility** (coercive / enforceable character)
 
-> Mnemonic: a legal rule is **G**eneral and **C**an be forced – **GC**.
+> Memory trick: a legal rule is **G**eneral and **C**an be forced – **GC**.
 
 
 **Q: What does **generality** of a legal rule mean? Give the example from the notes.**
@@ -39,9 +39,9 @@ Rules address **abstract categories**, not individual cases. A new formal obliga
 
 **Q: What does **coercibility** mean? Why is saying "good morning" in class not a legal rule?**
 
-If a rule is not obeyed voluntarily, compliance can be **imposed by institutionalised force** (power given to the **courts**). Greeting someone is a **social rule** – nobody can force you by institutional force.
+If a rule is not obeyed voluntarily, the **state can force people to comply** (through the **courts**). Greeting someone is a **social rule** – nobody can force you by institutional force.
 
-> Social norms, manners and educational rules regulate coexistence too, but they lack institutionalised enforcement.
+> Social norms, manners and rules of politeness also guide how people live together, but the state can't enforce them.
 
 
 **Q: Which three elements make sure legal rules are applied effectively?**
@@ -53,7 +53,7 @@ If a rule is not obeyed voluntarily, compliance can be **imposed by institutiona
 
 **Q: How must rules be **interpreted** (art. 3 CC)?**
 
-According to the **proper meaning of their words**, in connection with the **context**, their **historical and legislative background** and the **social reality** of the time when applied, attending to their **spirit and purpose**.
+According to the **proper meaning of their words**, in connection with the **context**, their **historical and legislative background** and the **social reality** of the time when they are applied, focusing mainly on their **spirit and purpose**.
 
 > If the literal meaning is not enough, the usual next step is the **purposive approach**: what did the legislator want to achieve with the rule?
 
@@ -65,7 +65,7 @@ Interpreting a rule according to its **spirit and purpose** – the reason why t
 
 **Q: When is a Spanish state rule **enacted (promulgated)** and when does it **enter into force**?**
 
-Enacted by publication in the **BOE** (Boletín Oficial del Estado). It enters into force **20 days after publication**, unless the rule itself shortens or lengthens that period.
+Enacted by publication in the **BOE** (Boletín Oficial del Estado). It enters into force **20 days after publication**, unless the rule itself sets a shorter or longer period.
 
 > Publication guarantees **legal certainty**: since it's in the BOE, nobody can claim not to know it.
 
@@ -77,13 +77,13 @@ The period between **publication** and **entry into force**. Example: RDL 8/2019
 
 **Q: Express vs tacit **repeal**?**
 
-**Express**: the new rule explicitly derogates the old one.
+**Express**: the new rule clearly states that the old one is repealed.
 **Tacit**: a new rule (same or **higher** rank) regulates the same matter differently → the old rule is invalid in everything inconsistent, even without saying so.
 
 
 **Q: State the **principle of effectiveness** (art. 6 CC).**
 
-"**Ignorance of the law does not excuse from compliance** thereof." Rules bind whether or not people know them, because they were published.
+"**Ignorance of the law does not excuse from compliance.**" Rules bind whether or not people know them, because they were published.
 
 > Practical consequence: entrepreneurs should get advice from lawyers/consultants – not knowing a tax or employment rule is never a defence.
 
@@ -119,7 +119,7 @@ The period between **publication** and **entry into force**. Example: RDL 8/2019
 2. **Custom** – only if there is no applicable law, if not contrary to morals/public order, and if **proven**
 3. **General principles of law** – if neither law nor custom
 
-> Mnemonic **L-C-P**: Law → Custom → Principles.
+> Memory trick **L-C-P**: Law → Custom → Principles.
 
 
 **Q: Is **case law** a source of law in Spain?**

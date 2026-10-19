@@ -1,6 +1,6 @@
 # Unit 3 – Capital Companies: Incorporation
 
-34 flashcards · same content as the app and the RECALL decks.
+32 flashcards · same content as the app and the RECALL decks.
 
 
 ## 3.1 S.A. vs S.L. – choosing
@@ -24,11 +24,6 @@
 - Capital **< €60,000** → must be an **S.L.**
 - Shares to be **listed** on a stock exchange → must be an **S.A.**
 - Otherwise free choice: S.A. = more formalities but **free transfer**; S.L. = fewer formalities, presumes **stable membership**.
-
-
-**Q: S.L. vs S.A.: quantitative vs qualitative importance?**
-
-S.L. dominate **quantitatively** (SMEs, low capital, stable members). S.A. dominate **qualitatively** (large corporations, stock market, free transfer of shares).
 
 
 **Q: S.A. vs S.L. – non-cash contributions, transfer, attendance, votes?**
@@ -126,11 +121,6 @@ The period between the deed and registration. Acts **necessary for registration*
 Because members are **not personally liable**, third parties can only rely on the **company's assets**. They need reliable info on **capital, directors, accounts** → transparency and **legal security**. Registry = **filter of lawfulness + publicity**.
 
 
-**Q: Which later acts must also be registered?**
-
-**Amendments of by-laws**, **appointment/removal of directors**, **annual accounts** (deposit) and many other corporate acts.
-
-
 
 ## 3.4 Contributions
 
@@ -171,7 +161,7 @@ The **total amount of members' contributions**, stated in the by-laws ("nominal 
 
 **Assets − liabilities (debts to third parties)** = Capital + reserves (undistributed profits) ± other items (grants, share premium, accumulated losses).
 
-> At incorporation **capital = equity**. Later they diverge: profits kept → equity > capital; losses → equity < capital. Mock Q11 → (d).
+> At incorporation **capital = equity**. Later they move apart: profits kept → equity > capital; losses → equity < capital. Mock Q11 → (d).
 
 
 **Q: Four principles protecting capital?**
@@ -206,7 +196,7 @@ Everything else is a **right**, not an obligation.
 5. **Challenge** resolutions (204)
 6. **Information** (197)
 
-> Mnemonic **D-L-P-V-C-I**: "**D**on't **L**et **P**eople **V**ote **C**areless **I**deas".
+> Memory trick **D-L-P-V-C-I**: "**D**on't **L**et **P**eople **V**ote **C**areless **I**deas".
 
 
 **Q: How are **votes** allocated in S.A. vs S.L.?**

@@ -9,8 +9,8 @@ ESADE BBA · Business Law I · Units 1–9 · **Midterm: Wednesday 21 October 20
 
 | Folder / file | What's inside | When to use it |
 |---|---|---|
-| [`index.html`](index.html) | **The study app**: plan, lessons with diagrams, 320 flashcards (spaced repetition), 171 exam-style MCQs + timed exam simulation, case model answers, drills, narrated explainers, cheat sheet | Everything in one place – open the website |
-| [`recall-decks/`](recall-decks) | 6 RECALL zips (all 320 cards, or by unit block) | Import into RECALL |
+| [`index.html`](index.html) | **The study app**: plan, lessons with diagrams, 296 flashcards (spaced repetition), 168 exam-style MCQs + timed exam simulation, case model answers, drills, narrated explainers, cheat sheet | Everything in one place – open the website |
+| [`recall-decks/`](recall-decks) | 6 RECALL zips (all 296 cards, or by unit block) | Import into RECALL |
 | [`cheat-sheet.pdf`](cheat-sheet.pdf) | 2-page printable sheet: every unit, all numbers, majorities, look-alikes | Wednesday morning |
 | [`notes/`](notes) | All flashcards as readable notes, one file per unit | Reading on GitHub |
 | [`practice/case-model-answers.md`](practice/case-model-answers.md) | Model answers for Case Studies 1–3 | After writing your own answers |
@@ -32,12 +32,12 @@ ESADE BBA · Business Law I · Units 1–9 · **Midterm: Wednesday 21 October 20
 
 | Zip | Cards |
 |---|---|
-| `BusinessLaw_Midterm_ALL.zip` | 320 (everything) |
-| `BusinessLaw_U1-3_Law_Entrepreneur_Incorporation.zip` | 114 |
-| `BusinessLaw_U4-5_Corporate_Bodies.zip` | 49 |
-| `BusinessLaw_U6-7_ByLaws_StructuralChanges.zip` | 55 |
-| `BusinessLaw_U8-9_IP_Competition.zip` | 75 |
-| `BusinessLaw_Case_Studies.zip` | 27 |
+| `BusinessLaw_Midterm_ALL.zip` | 296 (everything) |
+| `BusinessLaw_U1-3_Law_Entrepreneur_Incorporation.zip` | 108 |
+| `BusinessLaw_U4-5_Corporate_Bodies.zip` | 44 |
+| `BusinessLaw_U6-7_ByLaws_StructuralChanges.zip` | 51 |
+| `BusinessLaw_U8-9_IP_Competition.zip` | 67 |
+| `BusinessLaw_Case_Studies.zip` | 26 |
 
 Card IDs are shared, so importing the ALL zip and a block zip doesn't duplicate. Tags: `midterm` (all cards → exam section), `numbers`, `trap`, `mock`, `case`.
 
