@@ -1,0 +1,128 @@
+\documentclass[9pt]{extarticle}
+\usepackage[a4paper,margin=1.15cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}\renewcommand{\familydefault}{\sfdefault}
+\usepackage{xcolor}
+\usepackage[most]{tcolorbox}
+\usepackage{array,booktabs,tabularx}
+\usepackage{enumitem}
+\usepackage{amssymb}
+\setlist{nosep,leftmargin=1.1em}
+\setlength{\parindent}{0pt}
+\pagestyle{empty}
+\renewcommand{\arraystretch}{1.12}
+
+\definecolor{a}{HTML}{2747FF}
+\definecolor{b}{HTML}{0F8B8D}
+\definecolor{c}{HTML}{7A3CFF}
+\definecolor{d}{HTML}{E2522B}
+\definecolor{e}{HTML}{C2185B}
+\definecolor{f}{HTML}{2E7D32}
+\definecolor{g}{HTML}{8D5A00}
+\definecolor{h}{HTML}{0077C2}
+\definecolor{i}{HTML}{5C3B9E}
+\definecolor{trap}{HTML}{D63A50}
+
+\newtcolorbox{bx}[2]{enhanced,colback=white,colframe=#1,boxrule=0.7pt,arc=1.5mm,
+  left=1.6mm,right=1.6mm,bottom=1mm,
+  title={\bfseries #2},fonttitle=\small,coltitle=white,colbacktitle=#1,
+  attach boxed title to top left={xshift=2mm,yshift=-2mm},top=2.8mm,
+  boxed title style={arc=1mm,boxrule=0pt},before skip=2.6mm,after skip=0.6mm}
+\newcommand{\T}[1]{{\color{trap}\textbf{Trap:} #1}}
+\newcommand{\col}[2]{\begin{minipage}[t]{#1\linewidth}\vspace{0pt}#2\end{minipage}}
+
+\begin{document}
+{\Large\bfseries Business Law I -- Midterm Sheet}\hfill{\small ESADE BBA · Units 1--9 · Part I: 20 MCQ, 30 min, +0.5 / $-$0.1 \(\Rightarrow\) never leave blanks}\par\vspace{-1mm}
+
+\col{0.49}{
+\begin{bx}{a}{U1 · Legal rule \& system}
+\textbf{Rule} = \textbf{general} + \textbf{coercible}. Interpretation art.\,3 CC (words, context, history, social reality, \textit{purpose}).\\
+BOE $\rightarrow$ \textbf{20 days} vacatio legis $\rightarrow$ in force $\rightarrow$ repeal (express / tacit). Ignorance is no excuse (art.\,6 CC).\\
+\textbf{Sources} (art.\,1 CC): law $\rightarrow$ custom (proven) $\rightarrow$ principles. Case law only \textit{complements}.\\
+\textbf{Pyramid}: Constitution \,>\, treaties/EU \,>\, acts \,>\, RLD/RDL (status of act) \,>\, Royal Decrees \,>\, orders.\\
+State vs regions = \textbf{competence}. Treaty vs Constitution $\Rightarrow$ amend Constitution first (art.\,95).\\
+EU \textbf{Regulation} = directly applicable (GDPR) · \textbf{Directive} = transpose. EU law prevails.\\
+\T{mandatory rule = void if breached; dispositive = only if no agreement (art.\,314 CCom).}
+\end{bx}
+\begin{bx}{b}{U2 · Entrepreneur}
+Business Law = special \textbf{private} law of entrepreneurs (not tax/employment). Art.\,2 CCom: Code $\rightarrow$ \textbf{usage} $\rightarrow$ civil law (art.\,50: contracts $\rightarrow$ civil law). Art.\,149.1.6 CE: State only.\\
+\textbf{Enterprise} (no personality) $\neq$ \textbf{entrepreneur} (own name, organised, professional) $\neq$ \textbf{business/establishment}.\\
+Duties: accounts · registry (\textbf{optional for individuals}) · fair competition. Liability: all present \& future assets (1911 CC), incl. employees' acts.\\
+Legal capacity (birth) vs capacity to operate (18 + not incapacitated). Prohibitions to compete: contracts stay \textbf{valid}.\\
+Partners (general partnership): personal, unlimited, \textbf{subsidiary}, joint \& several. Capital co.\ members: \textbf{not} liable · except \textbf{irregular} co.\ / \textbf{veil lifting}.
+\end{bx}
+\begin{bx}{c}{U3 · Incorporation}
+\begin{tabularx}{\linewidth}{@{}l X X@{}}\toprule & \textbf{S.L.} & \textbf{S.A.}\\\midrule
+Min capital & €3,000 & €60,000\\ Paid at start & 100\% & 25\%\\ Non-cash & no report & expert report\\
+Units & stakes & shares (securities)\\ Transfer & restricted & free\\ Board & 3--12 & 3--no max\\ Director term & may be indefinite & max 6 yrs\\\bottomrule\end{tabularx}\\[1mm]
+Deed before \textbf{notary} + \textbf{Registry} (1 year) $\Rightarrow$ personality. One founder OK (SLU/SAU). \textbf{Work never capital} (58.2) $\rightarrow$ ancillary commitment (86).\\
+Equity = assets $-$ liabilities = capital + reserves $\pm$. \textbf{Book} = equity $\div$ shares · \textbf{Fair} = book $\pm$ expectations.
+\end{bx}
+}\hfill\col{0.49}{
+\begin{bx}{d}{U4 · General meeting \& directors}
+GM (art.\,160): accounts · directors · by-laws · capital · pre-emptive right · \textbf{core assets >25\%} · structural changes · dissolution. Ordinary GM: first \textbf{6 months}.\\
+Convene: directors · \textbf{5\%} can request · notice \textbf{1 month S.A. / 15 days S.L.} · universal = 100\% + unanimity.\\
+Off-agenda only: remove directors, liability action. Resolutions bind absent \& dissenting.\\[0.5mm]
+\begin{tabularx}{\linewidth}{@{}l X X@{}}\toprule & \textbf{S.A.} & \textbf{S.L.}\\\midrule
+Quorum & 25\% / any; special 50\% / 25\% & none\\ Ordinary & more for than against & majority cast $\geq$ 1/3 all\\ By-laws, capital & abs.\ maj.\ (2/3 if 25--50\%) & $>$ 1/2 all votes\\ Merger, excl.\ pre-emption & idem & $\geq$ 2/3 all votes\\\bottomrule\end{tabularx}\\[0.5mm]
+Directors: \textbf{sole} · \textbf{joint \& several} (each alone) · \textbf{joint} (together; S.A.\ max 2) · \textbf{board} (min 3).\\
+\T{members can't represent the company; GM can't interfere in management.}
+\end{bx}
+\begin{bx}{e}{U5 · Directors' duties \& liability}
+\textbf{Care} (225): orderly entrepreneur -- prudence, competence, dedication, information, vigilance (risk monitoring). \textbf{Loyalty} (227--230): faithful representative -- secrecy (also after), abstain, no competing; mandatory; GM may exempt case by case.\\
+\textbf{BJR} (226): good faith + no interest + info + procedure $\Rightarrow$ diligence presumed.\\
+\textbf{Debts} (subsidiary, only \textit{later} debts): insolvency not filed in 2 months · GM not convened when equity $<$ 1/2.\\
+\textbf{Damages} (236): fault + damage + causal link; fault presumed if illegal; GM approval \textbf{never} exonerates; de facto directors too; board: joint \& several unless opposed / unaware / did all (237).\\
+Actions: \textbf{corporate} (company $\rightarrow$ 5\% after 1 month $\rightarrow$ creditors) · \textbf{individual} (direct damage).
+\end{bx}
+\begin{bx}{f}{U6 · By-laws, capital increase \& reduction}
+GM amends; directors may move office \textbf{within Spain}. New obligations $\Rightarrow$ consent; purpose change $\Rightarrow$ exit right.\\
+Increase: cash $\uparrow$ · non-cash $\uparrow$ (S.A.\ expert) · loans $\uparrow$ (S.A.\ 25\% due + 5 yrs + auditor; S.L.\ 100\%) · \textbf{reserves =} (balance $\leq$ 6 months). Register resolution + execution together.\\
+\textbf{Pre-emptive right}: cash increases, $\geq$ 1 month. \textbf{Premium} avoids dilution.\\
+Reduction: losses · reserves · refund. \textbf{S.A.: equity $<$ 2/3 for 1 year $\Rightarrow$ mandatory.} Creditors oppose (S.A., 1 month) only if equity really falls. Accordion = reduce below min + increase.
+\end{bx}
+}
+
+\col{0.49}{
+\begin{bx}{g}{U7 · Structural changes \& termination}
+RDL 5/2023: transformation · merger · division · global assignment (+ office abroad).\\
+\textbf{Merger}: creation (all die) / absorption. Draft published $\geq$ 1 month before GMs; GMs within 6 months; expert if any S.A.; exchange ratio at \textbf{fair value}; 1-month creditor opposition; deed; \textbf{effective on registration}; challenge 3 months.\\
+Special: 100\% subsidiary (no exchange, no capital increase, no reports, no absorbed GM) · twins · 90\%.\\
+\begin{tabularx}{\linewidth}{@{}l X X@{}}\toprule & \textbf{Shares go to} & \textbf{Original co.}\\\midrule
+Total demerger & members & extinguished\\ Partial demerger & members & survives (capital $\downarrow$)\\ Segregation & \textbf{the company} & survives (parent)\\\bottomrule\end{tabularx}\\[0.5mm]
+Dissolution causes: term · GM · activity ends · paralysis · \textbf{equity $<$ 1/2} · capital $<$ minimum.\\
+Dissolution $\rightarrow$ liquidation (``en liquidación'', liquidators, inventory 3 months, creditors first, challenge distribution 2 months) $\rightarrow$ extinction (personality ends).
+\end{bx}
+\begin{bx}{a}{Look-alikes that MCQs love}
+\begin{itemize}
+\item \textbf{2/3 vs 1/2}: equity $<$ 2/3 (S.A., 1 year) $\Rightarrow$ \textit{reduce}; equity $<$ 1/2 (both) $\Rightarrow$ \textit{dissolve}.
+\item \textbf{Solidarios} = each alone · \textbf{mancomunados} = together.
+\item \textbf{Segregation}: the \textit{company} gets the shares; demergers: the \textit{members}.
+\item \textbf{Legal capacity} (birth) vs \textbf{capacity to operate} (18).
+\item \textbf{Regulation} (direct) vs \textbf{Directive} (transpose) vs Spanish \textit{regulation} (Royal Decree).
+\item \textbf{Trademark} (product) vs \textbf{trade name} (business) vs company name.
+\item \textbf{Collective} (association members) vs \textbf{guarantee} (quality) mark.
+\item \textbf{Misleading act} (false info) vs \textbf{confusion} (with a rival).
+\item \textbf{Debts} liability (crisis, later debts) vs \textbf{damages} liability (fault).
+\item \textbf{Corporate} action (company harmed) vs \textbf{individual} (direct harm).
+\item Increase by \textbf{reserves}: equity unchanged; by \textbf{loans}: equity $\uparrow$.
+\item Dissolution $\neq$ end of personality (only \textbf{extinction}).
+\end{itemize}
+\end{bx}
+}\hfill\col{0.49}{
+\begin{bx}{h}{U8 · Trademarks \& patents}
+\begin{tabularx}{\linewidth}{@{}l X X@{}}\toprule & \textbf{Trademark} & \textbf{Patent}\\\midrule
+Law & Act 17/2001 & Act 24/2015\\ Born by & OEPM registration (2-month opposition) & OEPM grant\\ Duration & 10 yrs, renewable $\infty$ & 20 yrs, not renewable\\ Use duty & 5 yrs non-use $\Rightarrow$ lapse & exploit in 3 (grant) / 4 (filing) yrs\\\bottomrule\end{tabularx}\\[0.5mm]
+Types: collective · guarantee · renowned (beyond class, even unregistered) · EU · international. Trade name = identifies the business.\\
+Prohibitions: \textbf{absolute} (descriptive, deceptive, flags) nullity \textbf{no limit} · \textbf{relative} (earlier marks) \textbf{5 yrs}.\\
+Patent: novelty (worldwide) + inventive step + industrial application. Not: discoveries, maths, software as such. Employee: service $\rightarrow$ employer · mixed $\rightarrow$ employer pays · free $\rightarrow$ employee.
+\end{bx}
+\begin{bx}{i}{U9 · Competition}
+LDC 15/2007: \textbf{prohibited} collusion (objective) \& abuse (dominance itself OK) · \textbf{controlled} concentrations \& State aid.\\
+De minimis: competitors $\leq$ 10\% · non-competitors $\leq$ 15\% · networks 5\% -- never price fixing / market sharing / resale price.\\
+Notify CNMC: $\geq$ 30\% share \textbf{or} $>$ €240M turnover with two $>$ €60M; suspension. State aid de minimis €200k / 3 yrs.\\
+Fines 1--10\% turnover; managers €60k; leniency. CNMC (Audiencia Nacional) / Commission (General Court).\\
+LCD 3/1991: objectively against good faith; before/during/after; open list. Defamation (true personal facts too) · comparison · imitation · secrets · confusion · misleading · aggressive · below cost (if misleading / eliminating).
+\end{bx}
+}
+\end{document}
