@@ -1,6 +1,6 @@
 # Business Law I – Midterm Study Kit
 
-ESADE BBA · Business Law I · Units 1–9 · **Midterm: Wednesday 21 October 2026**
+ESADE BBA · Business Law I · Units 1–7 · **Midterm: Wednesday 21 October 2026**
 
 📱 **Study app (website):** https://constantinraetsch-tech.github.io/business-law-/
 (enable once under *Settings → Pages → Deploy from branch → main / root*; then on iPhone: Safari → Share → *Add to Home Screen*.)
@@ -9,11 +9,11 @@ ESADE BBA · Business Law I · Units 1–9 · **Midterm: Wednesday 21 October 20
 
 | Folder / file | What's inside | When to use it |
 |---|---|---|
-| [`index.html`](index.html) | **The study app**: plan, lessons with diagrams, 296 flashcards (spaced repetition), 168 exam-style MCQs + timed exam simulation, case model answers, drills, narrated explainers, cheat sheet | Everything in one place – open the website |
-| [`recall-decks/`](recall-decks) | 6 RECALL zips (all 296 cards, or by unit block) | Import into RECALL |
-| [`cheat-sheet.pdf`](cheat-sheet.pdf) | 2-page printable sheet: every unit, all numbers, majorities, look-alikes | Wednesday morning |
+| [`index.html`](index.html) | **The study app**: **weak spots** page, plan, lessons with diagrams, 222 flashcards (spaced repetition), 174 exam-style MCQs incl. **3 timed mock exams** + weak-spot quiz + exam simulation, case model answers, drills, narrated explainers, cheat sheet | Everything in one place – open the website |
+| [`recall-decks/`](recall-decks) | 5 RECALL zips (all 222 cards, or by unit block) | Import into RECALL |
+| [`cheat-sheet.pdf`](cheat-sheet.pdf) | 2-page printable sheet (still includes Units 8–9 – skip those): every unit, all numbers, majorities, look-alikes | Wednesday morning |
 | [`notes/`](notes) | All flashcards as readable notes, one file per unit | Reading on GitHub |
-| [`practice/case-model-answers.md`](practice/case-model-answers.md) | Model answers for Case Studies 1–3 | After writing your own answers |
+| [`practice/case-model-answers.md`](practice/case-model-answers.md) | Model answers for Case Studies 1–2 | After writing your own answers |
 | [`scripts/`](scripts) | Sources that build the app, decks and sheet | Only to change content |
 
 ## Units
@@ -25,19 +25,18 @@ ESADE BBA · Business Law I · Units 1–9 · **Midterm: Wednesday 21 October 20
 5. **Corporate Bodies II** – duty of care & loyalty, business judgment rule, liability for debts and damages, corporate & individual actions
 6. **By-laws: Capital Increase & Reduction** – types of increase, pre-emptive right, share premium, mandatory reduction (2/3), creditor opposition, accordion
 7. **Structural Changes & Termination** – mergers (phases, exchange ratio, special mergers), total/partial demerger, segregation, dissolution → liquidation → extinction
-8. **Distinctive Signs & Industrial Creations** – trademarks (types, prohibitions, 10 years), trade names, patents (requirements, 20 years, employee inventions, licences)
-9. **Free & Unfair Competition** – collusion, abuse of dominance, de minimis, concentrations, State aid, CNMC, fines & leniency, unfair competition acts
+
+Units 8–9 (IP & competition) are **not** part of this midterm and were removed from the app, decks and notes.
 
 ## RECALL decks
 
 | Zip | Cards |
 |---|---|
-| `BusinessLaw_Midterm_ALL.zip` | 296 (everything) |
+| `BusinessLaw_Midterm_ALL.zip` | 222 (everything) |
 | `BusinessLaw_U1-3_Law_Entrepreneur_Incorporation.zip` | 108 |
 | `BusinessLaw_U4-5_Corporate_Bodies.zip` | 44 |
 | `BusinessLaw_U6-7_ByLaws_StructuralChanges.zip` | 51 |
-| `BusinessLaw_U8-9_IP_Competition.zip` | 67 |
-| `BusinessLaw_Case_Studies.zip` | 26 |
+| `BusinessLaw_Case_Studies.zip` | 19 |
 
 Card IDs are shared, so importing the ALL zip and a block zip doesn't duplicate. Tags: `midterm` (all cards → exam section), `numbers`, `trap`, `mock`, `case`.
 

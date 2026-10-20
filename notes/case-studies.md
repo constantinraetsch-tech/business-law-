@@ -1,6 +1,6 @@
 # Case Studies 1–3 (Patinetes Eléctricos & IP/competition cases)
 
-26 flashcards · same content as the app and the RECALL decks.
+19 flashcards · same content as the app and the RECALL decks.
 
 
 ## Case 1 – Setting up the start-up
@@ -143,47 +143,4 @@ New stakes N: N ÷ (90,000 + N) = 10% → **N = 10,000**.
 **Q: Case 2: reasons for the merger?**
 
 PTEL lost its purpose (only serves the parent): **simplify the structure**, **cut costs** (one set of accounts, filings, governance), **synergies**, concentrate employees/assets. Stating them (draft/report) helps **transparency** and justifies **valid economic reasons** (e.g. for tax neutrality).
-
-
-
-## Case 3 – Competition & IP
-
-**Q: Case 3: KFC's "nuclear button" tweet mocking Ronald McDonald – what advertising, lawful?**
-
-**Comparative advertising** (implicit reference to a competitor). Lawful only if it compares goods with the **same purpose**, **objectively** on **essential, verifiable** features, is **true**, not **denigrating**, doesn't exploit the competitor's **mark/reputation** (Dir. 2006/114 art. 4). "Bigger and more powerful" isn't verifiable and it makes fun of McDonald's mascot → probably **unlawful**; counter-argument: obvious humour/exaggeration (puffery) that no consumer takes literally.
-
-
-**Q: Case 3: products labelled "100% natural" contain chemicals. What is it and what actions exist?**
-
-**Misleading advertising** (misleading act/practice about essential characteristics). Actions (art. 32 LCD): **declaratory**, **cessation/prohibition**, **removal of effects**, **rectification**, **damages** (if fault), **unjust enrichment**; consumers' associations can sue; complaints to consumer authorities.
-
-
-**Q: Case 3: what is a **cartel**? Examples.**
-
-A secret **agreement between competitors** to **fix prices**, **share markets/customers**, or **limit output** (art. 101 TFEU / art. 1 LDC). Examples: price-fixing cartels (e.g. EU truck makers), bid rigging, market sharing.
-
-
-**Q: Case 3: travel agencies' software caps discounts at 3%; poster seller uses repricing algorithm. Sanctionable?**
-
-**Travel agencies**: common cap known and applied by competitors = **concerted practice** (price fixing) → sanctionable (EU *Eturas* case). **Posters**: a purely **unilateral** pricing algorithm is lawful; it becomes a **cartel** if used to implement an **agreement not to undercut** competitors (UK posters case on Amazon). Fines up to **10% of turnover**, nullity, leniency.
-
-
-**Q: Case 3: a company claims royalties for its registered "Black Friday" trademark. Can shops ignore it?**
-
-**Yes, largely**: "Black Friday" is a **generic/descriptive** term for a sales event – an **absolute** prohibition (no distinctiveness, customary in trade) → **nullity action** (**no time limit**); using it **descriptively** isn't trademark use. (Spanish courts did annul most of that registration.) Famous marks = Zara, Coca-Cola – broader protection (art. 8 LM).
-
-
-**Q: Case 3: competitors copy a start-up's registered EU design (webcam cover). Measures?**
-
-**Prevent**: register **designs** (EU), **trademark**, **patent/utility model** if technical, NDAs. **After copying**: cease-and-desist letter, **infringement action** (cessation, removal/seizure of copies, damages, publication), **interim measures**, **customs** measures; alternatively **unfair imitation** under the LCD.
-
-
-**Q: Case 3: legal mechanisms to protect innovations – differences?**
-
-- **Patent**: public, registered, **20 years**, absolute exclusivity
-- **Utility model / design**: registered, shorter, for practical/aesthetic creations
-- **Trademark**: signs, **10 years renewable**
-- **Copyright**: works/software, no registration
-- **Trade secret** (Act 1/2019): **no registration, unlimited** while secret + **reasonable measures** (NDAs), but no protection against **independent discovery / reverse engineering**
-- **Unfair competition** as a safety net
 

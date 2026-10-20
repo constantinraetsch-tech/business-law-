@@ -1,6 +1,6 @@
-# Case studies 1–3 – model answers
+# Case studies 1–2 – model answers
 
-Self-made model answers to the case dossier questions (check them against the seminar discussion). Case 4 (agency & banking) is for Units 10–12.
+Self-made model answers to the case dossier questions (check them against the seminar discussion). Case 3 (Units 8–9) isn't part of this midterm.
 
 
 ## Case 1 · Pedro & María's scooter start-up (Units 2–3)
@@ -136,71 +136,3 @@ Goal: equity ≥ ½ capital.<ul><li><b>Capital increase</b> with new money – t
 <b>Reasons</b>: PTEL lost its purpose (only serves the parent) → <b>simplify</b> the group, <b>cut costs</b> (one set of accounts, audits, tax filings, governance), integrate the marketing team, synergies, single brand/contract holder.<br><b>Recording them</b>: not a mandatory item of the simplified draft, but <b>convenient</b>: it explains the economic reasons to members and creditors (transparency) and documents <b>valid economic reasons</b>, relevant e.g. for the tax-neutral merger regime.
 
 *Key points:* Simplification & cost savings · Transparency · Valid economic reasons (tax)
-
-
-## Case 3 · Advertising, cartels & IP (Units 8–9)
-
-**Facts.** Part I: <b>KFC</b> parodies Trump's "nuclear button" tweet against <b>Ronald McDonald</b> ("my box meal is bigger and more powerful… and has gravy") · a cosmetics brand labels products "<b>100% natural</b>" though they contain chemicals.<br>Part II: software capping travel agencies' discounts at <b>3%</b> · a poster seller on <b>Amazon</b> using a pricing algorithm.<br>Part III: a company claims royalties for its registered "<b>Black Friday</b>" mark · competitors copy a start-up's registered <b>EU design</b> (webcam cover) · Apple employee's daughter leaks the new <b>iPhone</b> (trade secrets).
-
-
-### I.1 What type of advertising is the KFC tweet? Terms under EU law?
-
-<b>Comparative advertising</b>: it identifies a competitor (McDonald's) by its mascot. Under Directive 2006/114/EC (art. 4) and the LCD (art. 10) it's permitted only if it: is <b>not misleading</b>; compares goods meeting the <b>same needs/purpose</b>; <b>objectively</b> compares <b>material, relevant, verifiable, representative</b> features (e.g. price); doesn't <b>discredit/denigrate</b> the competitor or its marks; doesn't create <b>confusion</b>; doesn't take <b>unfair advantage</b> of the competitor's mark/reputation; doesn't present goods as <b>imitations</b>.
-
-*Key points:* Comparative advertising · Same purpose · Objective & verifiable · No denigration / unfair advantage of mark
-
-
-### I.2 Does the tweet breach EU unfair-competition rules?
-
-Arguments <b>against</b> it: "bigger and more powerful" is <b>not an objective, verifiable</b> comparison; it <b>makes fun of</b> the competitor ("big shoed, red nosed regime") and uses its mascot (a trademark) to profit from McDonald's fame → possibly <b>denigrating</b> and taking <b>unfair advantage</b>.<br>Arguments <b>for</b>: it's obvious <b>humour/parody</b> – an exaggeration (puffery) that no average consumer takes literally; same type of product (burgers); no real confusion.<br><b>Conclusion</b>: under a strict reading of the conditions it is <b>probably unlawful</b> comparative advertising (non-verifiable claim + mocking a competitor's mark), although in practice such funny campaigns are often accepted in practice. Show both sides in the exam.
-
-*Key points:* Not verifiable · Denigration / use of mark · Humour defence · Reasoned conclusion
-
-
-### I.Section 2 – "100% natural" with chemicals: what advertising and which actions?
-
-<b>Misleading advertising</b>: false information about <b>essential characteristics</b> (composition) able to distort consumers' decisions – a misleading act (art. 5 LCD) and misleading practice towards consumers (Dir. 2005/29/EC).<br><b>Actions</b> (art. 32 LCD) by competitors, consumers and consumer associations: <b>declaratory</b> action, <b>cessation</b> (stop) and prohibition of repetition, <b>removal of effects</b>, <b>rectification</b> of misleading information, <b>damages</b> (if fault), <b>unjust enrichment</b>; plus complaints to consumer authorities/self-regulation (Autocontrol), which may sanction.
-
-*Key points:* Misleading advertising · Essential characteristics · Cessation, rectification, damages
-
-
-### II.1 What is a cartel? Examples.
-
-A <b>secret agreement or concerted practice between competitors</b> to avoid competing: <b>fixing prices</b>, <b>sharing markets/customers</b>, <b>limiting production</b>, <b>bid rigging</b> (art. 101 TFEU, art. 1 LDC). Examples: European truck makers fixing prices; producers agreeing quotas; companies agreeing who wins public tenders. Cartels are the most serious infringement: never "minor importance", fines up to <b>10%</b> of turnover, <b>leniency</b> for the first whistle-blower.
-
-*Key points:* Agreement between competitors · Prices / markets / output · Never de minimis · Leniency
-
-
-### II.2 Can the two algorithm cases be sanctioned?
-
-<b>Travel agencies (3% cap)</b>: if the agencies <b>knew</b> of the system-imposed cap and kept using it, they engaged in a <b>concerted practice</b> to fix (minimum) prices via the platform – sanctionable under art. 101 TFEU (CJEU <i>Eturas</i>, 2016: an agency could escape only by publicly distancing itself). The software provider can be liable as a <b>facilitator</b>.<br><b>Posters on Amazon</b>: a <b>unilateral</b> repricing algorithm is lawful in itself. It's a <b>cartel</b> if it implements an <b>agreement with competitors</b> not to undercut each other (UK <i>posters</i> case, 2016) – then fines, nullity and possible leniency apply. Algorithms don't change the rules: <b>the agreement</b> is what matters.
-
-*Key points:* Concerted practice (Eturas) · Unilateral algorithm OK · Agreement → cartel · Fines up to 10%
-
-
-### III.1 What is a famous (renowned) trademark and how is it protected?
-
-A trademark <b>generally known</b> by the relevant public (art. 8 LM) thanks to prestige/geographic reach. Protection: even <b>unregistered</b> it enjoys rights like a registered one, and the owner can stop use <b>outside its classes</b> (exception to specialty) if it takes unfair advantage of or harms its reputation. Examples: <b>ZARA</b> (won against "Zara Tanzania Adventures"), Coca-Cola, Apple, Google.
-
-*Key points:* Generally known · Beyond its class · Even unregistered · Examples
-
-
-### III.2–3 Black Friday: can the shop ignore the royalty demand? Legal solution?
-
-<b>Yes, largely.</b> "Black Friday" describes a well-known <b>sales event</b> – a sign <b>lacking distinctiveness</b> / <b>customary</b> in trade / descriptive of the <b>time</b> of the service → an <b>absolute prohibition</b> (art. 5 LM). Using the words <b>descriptively</b> (to announce discounts) isn't use as a trademark.<br><b>Solution</b>: bring (or counterclaim) a <b>nullity action</b> on absolute grounds – <b>no time limit</b> – or rely on it in defence; meanwhile use the expression descriptively, not as a brand. (In Spain the courts did annul most of that registration for these reasons.)
-
-*Key points:* Absolute prohibition (generic/descriptive) · Descriptive use ≠ trademark use · Nullity action – imprescriptible
-
-
-### III.Section 2 – Copied EU design: preventive measures and actions?
-
-<b>Prevent</b>: register the <b>design</b> (EU registered design – done), register the <b>trademark</b>, protect technical features with a <b>patent/utility model</b>, use NDAs, monitor the market, customs watch.<br><b>Once copied</b>: <b>cease-and-desist</b> letter; <b>infringement action</b> (cessation, withdrawal/destruction of copies, <b>damages</b>, publication of the judgment); <b>interim injunctions</b>; <b>customs</b> seizure; subsidiarily <b>unfair imitation</b> (LCD) if there's risk of association or exploitation of effort.
-
-*Key points:* Register designs/marks/patents · Cease & desist · Infringement action + damages · Interim/customs measures
-
-
-### III.Section 3 – Mechanisms to protect business innovations and their differences
-
-<table class="tbl"><tr><th>Tool</th><th>Registration</th><th>Duration</th><th>Note</th></tr><tr><td>Patent</td><td>Yes (OEPM)</td><td>20 yrs, not renewable</td><td>Public disclosure; must exploit</td></tr><tr><td>Utility model / design</td><td>Yes</td><td>Shorter / renewable periods</td><td>Practical / aesthetic creations</td></tr><tr><td>Trademark</td><td>Yes</td><td>10 yrs renewable ∞</td><td>Signs, not technology</td></tr><tr><td>Copyright</td><td>No</td><td>Long</td><td>Works, software</td></tr><tr><td><b>Trade secret</b></td><td><b>No</b></td><td>While secret</td><td>Needs secrecy + commercial value + <b>reasonable measures</b> (NDAs); no protection vs independent discovery (Act 1/2019, Dir. 2016/943)</td></tr></table>The iPhone leak = <b>disclosure of a trade secret</b> in breach of confidentiality → dismissal, damages, injunctions; also unfair competition (violation of secrets).
-
-*Key points:* Patent vs secret · Registration vs none · Duration · Reasonable measures
