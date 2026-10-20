@@ -9,7 +9,7 @@ ESADE BBA · Business Law I · Units 1–7 · **Midterm: Wednesday 21 October 20
 
 | Folder / file | What's inside | When to use it |
 |---|---|---|
-| [`index.html`](index.html) | **The study app**: **weak spots** page, plan, lessons with diagrams, 222 flashcards (spaced repetition), 237 exam-style MCQs incl. **6 full mock exams (Part I quiz + Part II case)** + weak-spot quiz + exam simulation, case model answers, drills, narrated explainers, cheat sheet | Everything in one place – open the website |
+| [`index.html`](index.html) | **The study app**: **weak spots** page, plan, lessons with diagrams, 222 flashcards (spaced repetition), 237 exam-style MCQs incl. a **final exam** and **6 full mock exams (Part I quiz + Part II case)** + weak-spot quiz + exam simulation, case model answers, drills, narrated explainers, cheat sheet | Everything in one place – open the website |
 | [`recall-decks/`](recall-decks) | 5 RECALL zips (all 222 cards, or by unit block) | Import into RECALL |
 | [`cheat-sheet.pdf`](cheat-sheet.pdf) | 2-page printable sheet (still includes Units 8–9 – skip those): every unit, all numbers, majorities, look-alikes | Wednesday morning |
 | [`notes/`](notes) | All flashcards as readable notes, one file per unit | Reading on GitHub |
